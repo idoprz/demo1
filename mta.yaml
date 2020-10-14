@@ -1,6 +1,6 @@
 _schema-version: "3.2"
 ID: proj1
-version: 0.0.2445
+version: 0.0.2445345
 modules:
 - name: proj1-approuter
   type: approuter.nodejs
